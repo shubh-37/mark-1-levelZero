@@ -36,6 +36,10 @@ var quesArray = [
   {
     question: "what is the name of tony stark's father?",
     answer: "howard stark"
+  },
+  {
+    question: "which superhero's power exceeds the power of sorcerer's supreme?",
+    answer: "scarlet witch"
   }
 ]
 
