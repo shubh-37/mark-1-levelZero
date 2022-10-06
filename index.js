@@ -28,6 +28,14 @@ var quesArray = [
   {
     question: "What is the name of guider to soul stone? ",
     answer: "redskull"
+  },
+  {
+    question: "What is the name of Captain America's first love?",
+    answer: "peggy carter"
+  },
+  {
+    question: "what is the name of tony stark's father?",
+    answer: "howard stark"
   }
 ]
 
